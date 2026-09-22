@@ -13,7 +13,7 @@ This repository is intentionally selective: it highlights only credentials and a
 **Credential:** Data Scientist  
 **Distinction:** Completed all mandated course requirements and industry projects with distinction.
 
-[Verify credential](https://success.simplilearn.com/0b363659-1995-4fbf-8a95-a4157ef15fe2)
+[View certificate](certifications/Data_Scientist_Simplilearn_2025.pdf) · [Verify credential](https://success.simplilearn.com/0b363659-1995-4fbf-8a95-a4157ef15fe2)
 
 ---
 
@@ -32,7 +32,7 @@ Seven-course professional certificate covering:
 - Translating data into insights
 - Advanced analytics capstone
 
-[Verify credential](https://coursera.org/verify/professional-cert/5ZOKXCS6B7RR)
+[View certificate](certifications/Google_Advanced_Data_Analytics_2024.pdf) · [Verify credential](https://coursera.org/verify/professional-cert/5ZOKXCS6B7RR)
 
 ---
 
@@ -46,6 +46,8 @@ Seven-course professional certificate covering:
 
 Awarded **Third Place** for the project **“Fire Fighting Robot using Arduino.”**
 
+[View award certificate](awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.jpg)
+
 ---
 
 ## Experience Evidence
@@ -57,6 +59,8 @@ Awarded **Third Place** for the project **“Fire Fighting Robot using Arduino.�
 
 Completed a three-month internship as a Data Analyst Intern.
 
+[View internship certificate](experience/Unified_Mentor_Data_Analyst_Internship_2024.pdf)
+
 ---
 
 ## Selection Policy
@@ -67,4 +71,4 @@ For current engineering work, see my main GitHub profile: [github.com/denoskume]
 
 ## Document Notice
 
-Credential and award documents remain the property of their respective issuers. Public verification links are used whenever an official verification page is available.
+Credential and award documents remain the property of their respective issuers. They are published here only as evidence of credentials and achievements.
