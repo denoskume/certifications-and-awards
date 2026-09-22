@@ -1,8 +1,8 @@
 # Certifications & Awards — Denos Kume
 
-Selected credentials and awards that support my work in Data Science, Machine Learning, Computer Vision, and engineering.
+Selected credentials, awards, and experience evidence supporting my work in Data Science, Machine Learning, Computer Vision, and engineering.
 
-This repository is intentionally selective. It contains only credentials that materially strengthen my technical profile or document relevant project/industry experience.
+This repository is intentionally selective: it highlights only credentials and achievements that materially strengthen my technical profile.
 
 ## Featured Credentials
 
@@ -13,9 +13,7 @@ This repository is intentionally selective. It contains only credentials that ma
 **Credential:** Data Scientist  
 **Distinction:** Completed all mandated course requirements and industry projects with distinction.
 
-[View certificate](certifications/Data_Scientist_Simplilearn_2025.pdf)
-
-Verification: https://success.simplilearn.com/0b363659-1995-4fbf-8a95-a4157ef15fe2
+[Verify credential](https://success.simplilearn.com/0b363659-1995-4fbf-8a95-a4157ef15fe2)
 
 ---
 
@@ -24,11 +22,17 @@ Verification: https://success.simplilearn.com/0b363659-1995-4fbf-8a95-a4157ef15f
 **Issuer:** Google Career Certificates / Coursera  
 **Date:** December 12, 2024
 
-Seven-course professional certificate covering foundations of data science, Python, statistical analysis, regression, machine learning, translating data into insights, and an advanced analytics capstone.
+Seven-course professional certificate covering:
 
-[View certificate](certifications/Google_Advanced_Data_Analytics_2024.pdf)
+- Foundations of Data Science
+- Python
+- Statistical analysis
+- Regression
+- Machine Learning
+- Translating data into insights
+- Advanced analytics capstone
 
-Verification: https://coursera.org/verify/professional-cert/5ZOKXCS6B7RR
+[Verify credential](https://coursera.org/verify/professional-cert/5ZOKXCS6B7RR)
 
 ---
 
@@ -42,8 +46,6 @@ Verification: https://coursera.org/verify/professional-cert/5ZOKXCS6B7RR
 
 Awarded **Third Place** for the project **“Fire Fighting Robot using Arduino.”**
 
-[View award certificate](awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.jpg)
-
 ---
 
 ## Experience Evidence
@@ -53,9 +55,7 @@ Awarded **Third Place** for the project **“Fire Fighting Robot using Arduino.�
 **Duration:** September 10, 2024 — December 10, 2024  
 **Role:** Data Analyst Intern
 
-Completed a three-month internship at Unified Mentor Pvt Ltd.
-
-[View internship certificate](experience/Unified_Mentor_Data_Analyst_Internship_2024.pdf)
+Completed a three-month internship as a Data Analyst Intern.
 
 ---
 
@@ -63,8 +63,8 @@ Completed a three-month internship at Unified Mentor Pvt Ltd.
 
 Not every completed course is included here. Introductory or overlapping certificates are intentionally omitted when stronger academic work, professional experience, or project evidence already demonstrates the same skill.
 
-For current engineering work, see my main GitHub profile: https://github.com/denoskume
+For current engineering work, see my main GitHub profile: [github.com/denoskume](https://github.com/denoskume)
 
 ## Document Notice
 
-Certificates and award documents remain the property of their respective issuers. They are published here only as evidence of credentials and achievements.
+Credential and award documents remain the property of their respective issuers. Public verification links are used whenever an official verification page is available.
