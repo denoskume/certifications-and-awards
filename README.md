@@ -36,6 +36,19 @@ Seven-course professional certificate covering:
 
 ---
 
+## Recognition
+
+### Star of the Month — Campus Ambassador Programme
+
+**Organization:** ISDC Learning  
+**Recognition:** Star of the Month
+
+Recognized for dedication, persistence, perseverance, and contribution to the Campus Ambassador Programme.
+
+[View public LinkedIn recognition](https://www.linkedin.com/posts/kaur-pawandeep_congratulations-denos-share-7172899030623014912--dsG/)
+
+---
+
 ## Award
 
 ### 3rd Place — Fire Fighting Robot using Arduino
