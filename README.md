@@ -1,6 +1,3 @@
-<p align="right"><strong>Denos Kume</strong></p>
-<br clear="both">
-
 <h1 align="center">Certifications & Awards</h1>
 
 Selected credentials, awards, and experience evidence supporting my work in Data Science, Machine Learning, Computer Vision, and engineering.
