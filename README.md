@@ -7,7 +7,7 @@ This repository is intentionally selective: it highlights only credentials and a
 ## Featured Credentials
 
 <p align="center">
-  <a href="certifications/Data_Scientist_Simplilearn_2025.pdf"><img src="assets/cards/credential-simplilearn-square.svg?v=2" width="340" height="340" alt="Data Scientist — Simplilearn Masters Program" /></a>
+  <a href="https://success.simplilearn.com/0b363659-1995-4fbf-8a95-a4157ef15fe2"><img src="assets/cards/credential-simplilearn-square.svg?v=2" width="340" height="340" alt="Data Scientist — Simplilearn Masters Program" /></a>
   &nbsp;&nbsp;
   <a href="certifications/Google_Advanced_Data_Analytics_2024.pdf"><img src="assets/cards/credential-google-square.svg?v=2" width="340" height="340" alt="Google Advanced Data Analytics Professional Certificate" /></a>
 </p>
