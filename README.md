@@ -23,8 +23,3 @@ This repository is intentionally selective: it highlights only credentials and a
   <a href="awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.jpg"><img src="assets/cards/award-robot-square.svg?v=2" width="340" height="340" alt="3rd Place — Fire Fighting Robot" /></a>
 </p>
 
-## Experience Evidence
-
-<p align="center">
-  <a href="experience/Unified_Mentor_Data_Analyst_Internship_2024.pdf"><img src="assets/cards/experience-unified-square.svg?v=2" width="340" height="340" alt="Data Analyst Intern — Unified Mentor" /></a>
-</p>
