@@ -9,7 +9,7 @@ Supporting archive for certifications, awards, and documented experience referen
 
 ## Awards & Recognition
 
-- [3rd Place — Fire Fighting Robot, GALAXIA 2022](awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.jpg)
+- [3rd Place — Fire Fighting Robot, GALAXIA 2022](awards/Fire_Fighting_Robot_GALAXIA_3rd_Place_2022.png)
 - [Star of the Month — ISDC Learning](https://www.linkedin.com/posts/kaur-pawandeep_congratulations-denos-share-7172899030623014912--dsG/)
 
 ## Experience Evidence
